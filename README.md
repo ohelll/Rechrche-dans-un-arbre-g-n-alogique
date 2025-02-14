@@ -1,5 +1,5 @@
-# Rechrche-dans-un-arbre-g-n-alogique
-# C'est projet fait durant ma licence d'informatique
+# Rechrche-dans-un-arbre-genealogique
+<!-- C'est projet fait durant ma licence d'informatique -->
 
 
 Dans projet, on s’intéresse à la manipulation d’un arbre généalogique. Le but est de 
